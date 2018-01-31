@@ -10,8 +10,8 @@ module.exports = {
   userTwitter: 'skorfmann', // Twitter Username
   // og: Meta Tags
   ogSiteName: 'ImmoStream Hamburg', // Facebook Site Name
-  googleAnalyticsID: 'UA-12345689-1',
-  copyright: 'Copyright © 2018. All rights reserved..', // Copyright in the footer of the site
+  googleAnalyticsID: 'UA-1634729-26',
+  copyright: 'Copyright © 2018. All rights reserved.', // Copyright in the footer of the site
   // You can translate these three words into your language if you want.
   // They'll be shown on the project page header
   // Date format used in your project header
